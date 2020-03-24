@@ -1,0 +1,23 @@
+
+
+header{
+    text-align: center;
+    color: blue;
+}
+canvas{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -250px;
+    margin-top: -150px;
+} 
+#green_player{
+    color: green;
+}
+#red_player{
+    color: red;
+}
+#result{
+    text-align: center;
+    padding-top: 30px;
+}
